@@ -1,1 +1,1 @@
-# Criando-desafio-cartas-Super-Trunfo
+super_trunfo.c
