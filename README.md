@@ -1,5 +1,6 @@
 super trunfo
 nivel iniciante
+
 #include <stdio.h>
 
 int main() {
